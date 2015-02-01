@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dis_name: MyString
+  note: MyText
+  province_id: 
+
+two:
+  dis_name: MyString
+  note: MyText
+  province_id: 
